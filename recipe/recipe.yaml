@@ -1,5 +1,5 @@
 context:
-  version: "5.0.0"
+  version: "5.1.0"
 
 package:
   name: lockfile-lint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/lockfile-lint/-/lockfile-lint-${{ version }}.tgz
-  sha256: 2dc4ead906578eec2bf04a6c13044c56a942b1ebfdd7dc8e031fed34ca13b1a0
+  sha256: 6eb6283a2aa3d9882d823398c61273efdfafc91fcacafed494d9c57195cb3fac
 
 build:
   number: 0
